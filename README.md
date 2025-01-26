@@ -79,7 +79,7 @@
       <a href="">LinkedIn</a>
       </td>
       <td>
-      📖
+      ✅
       </td>
       </tr>
       <tr>
