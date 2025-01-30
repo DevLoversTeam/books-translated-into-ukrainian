@@ -76,7 +76,7 @@
       <a href="https://fabulabook.com/info-kanban-22928">Канбан, Девід Дж. Андерсон</a>
       </td>
       <td>
-      <a href="">LinkedIn</a>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7289522562823254016/">LinkedIn</a>
       </td>
       <td>
       ✅
