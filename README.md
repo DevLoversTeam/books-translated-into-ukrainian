@@ -249,5 +249,19 @@
        ✅
       </td>
       </tr>
+      <tr>
+      <td>
+      <img src="./images/17-js-for-kids.jpg" width="100" alt="Обкладинка книги"/>
+      </td>
+      <td>
+      <a href="https://starylev.com.ua/javascript-dlya-ditey?srsltid=AfmBOopWvHo94rg_qazny64Y1pLHjAXMdDTPhfoRfIgsfmjEvb5wJYAn">Javascript для дітей</a>
+      </td>
+      <td>
+      <a href="">LinkedIn</a>
+      </td>
+      <td>
+       ✅
+      </td>
+      </tr>
   </tbody>
 </table>
