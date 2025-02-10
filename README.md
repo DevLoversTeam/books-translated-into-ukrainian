@@ -257,7 +257,7 @@
       <a href="https://starylev.com.ua/javascript-dlya-ditey?srsltid=AfmBOopWvHo94rg_qazny64Y1pLHjAXMdDTPhfoRfIgsfmjEvb5wJYAn">Javascript для дітей</a>
       </td>
       <td>
-      <a href="">LinkedIn</a>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7294596000067809280/">LinkedIn</a>
       </td>
       <td>
        ✅
