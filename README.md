@@ -263,5 +263,19 @@
        ✅
       </td>
       </tr>
+      <tr>
+      <td>
+      <img src="./images/18-cats.png" width="100" alt="Обкладинка книги"/>
+      </td>
+      <td>
+      <a href="https://fabulabook.com/info-yak-pasty-kotiv-15130?srsltid=AfmBOoqFrFUrosUbn6VxkFQgi4Z0MoHwEPdU1qbQ9uA9yH1SDaOEnxzL">Як пасти котів</a>
+      </td>
+      <td>
+      <a href="https://www.linkedin.com/posts/viktorsvertoka_%D1%8F%D0%BA-%D0%BF%D0%B0%D1%81%D1%82%D0%B8-%D0%BA%D0%BE%D1%82%D1%96%D0%B2-%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BE-%D1%81%D0%BF%D0%BE%D0%B9%D0%BB%D0%B5%D1%80-activity-7347869194903773185-rRu2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMPNFQBBFgL-Ll4IsCp7fQy7cxY-8GKR24">LinkedIn</a>
+      </td>
+      <td>
+       ✅
+      </td>
+      </tr>
   </tbody>
 </table>
